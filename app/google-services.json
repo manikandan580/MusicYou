@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72609027682",
+    "project_id": "musicyou-9f2cf",
+    "storage_bucket": "musicyou-9f2cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72609027682:android:fd61646e340fed82c2e33b",
+        "android_client_info": {
+          "package_name": "com.manikandan.musicyou.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOq-E7CTqphgWuqKp4dDpCZfNTCQkYE_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
