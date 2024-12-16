@@ -2,7 +2,7 @@
 
 An Android application for streaming music from YouTube Music.
 
-![Repository preview](./screenshots/image (21) (1).png)
+![Repository preview](./screenshots/mani.png)
 
 ## ✨ Features
 
