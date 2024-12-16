@@ -27,9 +27,7 @@ An Android application for streaming music from YouTube Music.
 ## 🌐 Available languages
 
 - English
-- Spanish
-- German (thanks to [@siggi1984](https://github.com/siggi1984))
-- French (thanks to [@patxixi](https://github.com/patxixi))
+- Tamil
 
 
 ## ℹ️ Disclaimer
