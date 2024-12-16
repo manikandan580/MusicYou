@@ -31,29 +31,6 @@ An Android application for streaming music from YouTube Music.
 - German (thanks to [@siggi1984](https://github.com/siggi1984))
 - French (thanks to [@patxixi](https://github.com/patxixi))
 
-## 📸 Screenshots
-
-<div style="text-align: center">
-    <img src="./screenshots/screenshot_player.png" alt="Player" style="width: 30%; border-radius: 10px">
-    <img src="./screenshots/screenshot_home.png" alt="Home" style="width: 30%; border-radius: 10px">
-    <img src="./screenshots/screenshot_artist.png" alt="Artist" style="width: 30%; border-radius: 10px">
-    <img src="./screenshots/screenshot_songs.png" alt="Songs" style="width: 30%; border-radius: 10px">
-    <img src="./screenshots/screenshot_artists.png" alt="Artists" style="width: 30%; border-radius: 10px">
-    <img src="./screenshots/screenshot_albums.png" alt="Albums" style="width: 30%; border-radius: 10px">
-</div>
-
-## 📲 Installation
-
-[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
-alt="Get it on GitHub"
-
-## 🌟 Inspiration
-
-- [ViMusic](https://github.com/vfsfitvnm/ViMusic)
-- [RiMusic](https://github.com/fast4x/RiMusic)
-- [ViTune](https://github.com/25huizengek1/ViTune)
-- [InnerTune](https://github.com/z-huang/InnerTune)
-- [Symphony](https://github.com/zyrouge/symphony)
 
 ## ℹ️ Disclaimer
 
