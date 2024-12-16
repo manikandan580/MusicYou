@@ -1,7 +1,7 @@
 # Music You
 
 An Android application for streaming music from YouTube Music.
-
+![Repository preview](./screenshots/kandan.png)
 ![Repository preview](./screenshots/mani.png)
 
 ## ✨ Features
